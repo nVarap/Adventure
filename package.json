@@ -1,0 +1,17 @@
+{
+  "name": "adventure",
+  "version": "1.0.0",
+  "description": "A game that uses the ChatGPT API to power something cool",
+  "main": "something.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "i": "^0.3.7",
+    "openai": "^4.15.3"
+  }
+}
